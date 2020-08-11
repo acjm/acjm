@@ -1,4 +1,4 @@
-### Hi there, I'm Ayman - aka [codeSTACKr][website] 👋
+### Hi, I'm Ayman  👋
 
 ## I'm a FullSatck Javascript Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
